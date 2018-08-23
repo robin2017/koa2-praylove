@@ -1,5 +1,5 @@
 const config = {
-  port: 1234,
+  port: 12808,
   database: {
     DATABASE: 'pray_love',
     USERNAME: 'root',
