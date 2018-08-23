@@ -1,7 +1,7 @@
 const config = {
-  port: 3001,
+  port: 1234,
   database: {
-    DATABASE: 'koa_demo',
+    DATABASE: 'pray_love',
     USERNAME: 'root',
     PASSWORD: '123456',
     PORT: '3306',
