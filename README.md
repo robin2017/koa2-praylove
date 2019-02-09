@@ -30,7 +30,7 @@ node ./server/app.js
 ## PART2:小程序端运行
 ### 1、下载源码
  ```
-git clone https://github.com/robin2017/mpvue-demo.git
+git clone https://github.com/robin2017/mpvue-praylove.git
  ```
 ### 2、修改URL
  将'src/utils/request.js'中baseURL修改为你的https链接
